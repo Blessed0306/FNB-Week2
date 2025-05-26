@@ -16,3 +16,6 @@ ul {
 ol{
     list-style-type: upper-roman;
 }
+ul{
+    list-style-image: url(images/pointer-icon.png);
+}
