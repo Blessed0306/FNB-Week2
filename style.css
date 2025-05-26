@@ -20,13 +20,13 @@ ul{
     list-style-image: url(images/pointer-icon.png);
 }
 
-a{
+#menu-bar a{
     text-decoration: none;
     background-color: aquamarine;
     padding: 5px;
     font-family: 'Courier New', Courier, monospace;
 }
-a:hover{
+#menu-bar a:hover{
     background-color: aqua;
     color: black;
 }
